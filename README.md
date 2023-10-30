@@ -4,16 +4,16 @@ HydroVision is a machine learning project to predict the potability of water bas
 
 ### Installation and Setup 🛠️
 
-To install and set up AquaSense, you will need to have Python 3 and the following Python libraries installed:
+To install and set up HydroVision, you will need to have Python 3 and the following Python libraries installed:
 
-* pandas 🐼
-* numpy 🐍
-* matplotlib 📊
-* seaborn 🎨
-* plotly 📈
-* scikit-learn 🤖
-* xgboost 🚀
-* imbalanced-learn ⚖️
+* pandas 
+* numpy 
+* matplotlib 
+* seaborn 
+* plotly 
+* scikit-learn 
+* xgboost 
+* imbalanced-learn 
 
 Once you have installed the required libraries, you can clone the HydroVision repository and install the project using the following command:
 
